@@ -1,0 +1,13 @@
+PullChangeCommitPush
+dhananjaymulay95@gmail.com
+phoenix@Sep2020
+
+
+ls
+cd
+git init
+git remote add origin [gitLink]
+git remote -v
+git add .
+git commit -m "First commit"
+git push origin master
